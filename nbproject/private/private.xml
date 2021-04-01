@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/user/Desktop/pijavafinal-master/src/gui2/supprimercommande.fxml</file>
+            <file>file:/C:/Users/user/Desktop/pijavafinal-master/src/gui1/AcceuilController.java</file>
+            <file>file:/C:/Users/user/Desktop/pijavafinal-master/src/service/ServicesCommande.java</file>
+            <file>file:/C:/Users/user/Desktop/pijavafinal-master/src/gui2/ajoutcommande.fxml</file>
+            <file>file:/C:/Users/user/Desktop/pijavafinal-master/src/gui2/ProductsController.java</file>
+            <file>file:/C:/Users/user/Desktop/pijavafinal-master/src/gui2/HomeprecController.java</file>
+            <file>file:/C:/Users/user/Desktop/pijavafinal-master/src/service/ServicesProduit.java</file>
+            <file>file:/C:/Users/user/Desktop/pijavafinal-master/src/service/IService.java</file>
+            <file>file:/C:/Users/user/Desktop/pijavafinal-master/src/gui1/Acceuil2Controller.java</file>
+            <file>file:/C:/Users/user/Desktop/pijavafinal-master/src/gui1/ModiftypeactiviteController.java</file>
+            <file>file:/C:/Users/user/Desktop/pijavafinal-master/src/gui1/TypereclamationController.java</file>
+            <file>file:/C:/Users/user/Desktop/pijavafinal-master/src/gui2/ModifierproduitController.java</file>
+            <file>file:/C:/Users/user/Desktop/pijavafinal-master/src/gui1/IntgesreclamationController.java</file>
+            <file>file:/C:/Users/user/Desktop/pijavafinal-master/src/gui2/boutique.fxml</file>
+            <file>file:/C:/Users/user/Desktop/pijavafinal-master/src/gui2/ModifiercommandeController.java</file>
+            <file>file:/C:/Users/user/Desktop/pijavafinal-master/src/gui1/AddetatreclamationController.java</file>
+            <file>file:/C:/Users/user/Desktop/pijavafinal-master/src/gui2/HomeprodController.java</file>
+            <file>file:/C:/Users/user/Desktop/pijavafinal-master/src/gui2/AjoutcommandeController.java</file>
+            <file>file:/C:/Users/user/Desktop/pijavafinal-master/src/gui2/SupprimerproduitController.java</file>
+            <file>file:/C:/Users/user/Desktop/pijavafinal-master/src/gui2/ajoutproduit.fxml</file>
+            <file>file:/C:/Users/user/Desktop/pijavafinal-master/src/tests/MainGui.java</file>
+            <file>file:/C:/Users/user/Desktop/pijavafinal-master/src/dbconnection/Dbconnection.java</file>
+            <file>file:/C:/Users/user/Desktop/pijavafinal-master/src/gui/GestionMaterielController.java</file>
+            <file>file:/C:/Users/user/Desktop/pijavafinal-master/src/models/commande.java</file>
+            <file>file:/C:/Users/user/Desktop/pijavafinal-master/src/gui2/products.fxml</file>
+            <file>file:/C:/Users/user/Desktop/pijavafinal-master/src/gui/GestionEtatController.java</file>
+            <file>file:/C:/Users/user/Desktop/pijavafinal-master/src/gui2/BoutiqueController.java</file>
+            <file>file:/C:/Users/user/Desktop/pijavafinal-master/src/gui2/homeprec.fxml</file>
+            <file>file:/C:/Users/user/Desktop/pijavafinal-master/src/gui2/supprimerproduit.fxml</file>
+            <file>file:/C:/Users/user/Desktop/pijavafinal-master/src/gui2/homeprod.fxml</file>
+            <file>file:/C:/Users/user/Desktop/pijavafinal-master/src/gui2/AjoutproduitController.java</file>
+            <file>file:/C:/Users/user/Desktop/pijavafinal-master/src/gui2/modifiercommande.fxml</file>
+            <file>file:/C:/Users/user/Desktop/pijavafinal-master/src/gestion_materiel/DataSource.java</file>
+            <file>file:/C:/Users/user/Desktop/pijavafinal-master/src/gui2/modifierproduit.fxml</file>
+            <file>file:/C:/Users/user/Desktop/pijavafinal-master/src/service/IServiceGestionMateriel.java</file>
+            <file>file:/C:/Users/user/Desktop/pijavafinal-master/src/gui1/ModiftyperecController.java</file>
+            <file>file:/C:/Users/user/Desktop/pijavafinal-master/src/gui2/SupprimercommandeController.java</file>
+        </group>
+    </open-files>
+</project-private>
